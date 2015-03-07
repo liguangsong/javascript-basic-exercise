@@ -1,0 +1,20 @@
+{
+    "title": "JavaScript基础知识练习",
+    "type": "topic",
+    "order": 7,
+    "desc":[""],
+    "desc_file":false,
+    "question": {
+        "content": "下面哪个不是javascript的全局函数:",
+        "options": [
+            "alert",
+            "escape",
+            "parseFloat",
+            "eval"
+        ]
+    },
+    "answer": {
+        "value": "alert",
+        "explain_file":false
+    }
+}

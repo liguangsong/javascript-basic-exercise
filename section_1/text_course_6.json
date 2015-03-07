@@ -1,0 +1,20 @@
+{
+    "title": "JavaScript基础知识练习",
+    "type": "topic",
+    "order": 5,
+    "desc":[""],
+    "desc_file":false,
+    "question": {
+        "content": "请选择对javascript理解正确的:",
+        "options": [
+            "JScript是javascript的简称.",
+            "javascript是网景公司开发的一种Java脚本语言,目的是为了简化Java的开发难度.",
+            "AJAX技术一定要使用javascript技术.",
+            "以上说法都不正确."
+        ]
+    },
+    "answer": {
+        "value": "以上说法都不正确.",
+        "explain_file":false
+    }
+}

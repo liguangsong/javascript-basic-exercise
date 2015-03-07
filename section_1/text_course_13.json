@@ -1,0 +1,20 @@
+{
+    "title": "JavaScript基础知识练习",
+    "type": "topic",
+    "order": 12,
+    "desc":[""],
+    "desc_file":false,
+    "question": {
+        "content": "下面说法不正确的是?",
+        "options": [
+            "JavaScript会忽略程序中记号之间的空格,制表符和换行符(换行符之前不构成完整的语句).",
+            "JavaScript中不同行的语句后面可以省略分号.",
+            "JavaScript会自动在换行位置插入分号.",
+            "JavaScript是解释型语言."
+        ]
+    },
+    "answer": {
+        "value": "JavaScript会自动在换行位置插入分号.",
+        "explain_file":false
+    }
+}

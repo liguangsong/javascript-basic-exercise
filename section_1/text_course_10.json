@@ -1,0 +1,20 @@
+{
+    "title": "JavaScript基础知识练习",
+    "type": "topic",
+    "order": 9,
+    "desc":[""],
+    "desc_file":false,
+    "question": {
+        "content": "下面关于break的描述错误的是?",
+        "options": [
+            "break用于退出循环.",
+            "break用于退出当前函数.",
+            "break用于退出switch语句. ",
+            "break不能用于if语句中."
+        ]
+    },
+    "answer": {
+        "value": "break用于退出当前函数.",
+        "explain_file":false
+    }
+}

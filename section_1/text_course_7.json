@@ -1,0 +1,20 @@
+{
+    "title": "JavaScript基础知识练习",
+    "type": "topic",
+    "order": 6,
+    "desc":[""],
+    "desc_file":false,
+    "question": {
+        "content": "foo对象有att属性,那么获取att属性的值,一下那种做法是错误的:",
+        "options": [
+            "foo.att",
+            "foo['a'+'t'+'t']",
+            "foo('att')",
+            "foo['att']"
+        ]
+    },
+    "answer": {
+        "value": "foo('att')",
+        "explain_file":false
+    }
+}

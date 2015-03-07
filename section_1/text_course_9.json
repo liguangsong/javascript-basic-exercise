@@ -1,0 +1,20 @@
+{
+    "title": "JavaScript基础知识练习",
+    "type": "topic",
+    "order": 8,
+    "desc":[""],
+    "desc_file":false,
+    "question": {
+        "content": "关于JavaScript说法正确的是：",
+        "options": [
+            "JavaScript与Java语法完全一样",
+            "JavaScript要运行必须安装Java运行环境",
+            "JavaScript一般用于在网页上实现数据验证及特效等 ",
+            "JavaScript可于开发Windows应用程序"
+        ]
+    },
+    "answer": {
+        "value": "JavaScript一般用于在网页上实现数据验证及特效等 ",
+        "explain_file":false
+    }
+}

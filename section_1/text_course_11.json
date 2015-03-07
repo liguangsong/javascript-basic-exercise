@@ -1,0 +1,20 @@
+{
+    "title": "JavaScript基础知识练习",
+    "type": "topic",
+    "order": 10,
+    "desc":[""],
+    "desc_file":false,
+    "question": {
+        "content": "下面关于continue的描述正确的是?",
+        "options": [
+            "continue只能用于循环语句中.",
+            "continue的用法和break一样.",
+            "continue用于退出循环.",
+            "continue表示继续执行后面的代码."
+        ]
+    },
+    "answer": {
+        "value": "continue只能用于循环语句中.",
+        "explain_file":false
+    }
+}

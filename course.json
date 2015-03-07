@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "show_name": "JavaScript 基础知识练习",
+        "id_name":   "javascript_basic_exercise",
+        "desc": "Javascript 基础知识练习,重在练习对JavaScript的基础知识(例如:数据类型,运算符,流程控制语句,等...)的掌握程度和熟练程度.",
+        "target_effect": {
+            "name": "例题演示",
+            "desc": "coming soon......",
+            "href": "/super_show/index.html"
+        },
+        "order": 13,
+        "ico": "/images/JS.PNG",
+        "title_ico": "/images/Javascript.png",
+        "version": "1.0.0"
+
+    },
+    "relevance": {
+        "type": "path",
+        "column": "_id",
+        "index": {
+            "id_name": "javascript"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "title": "JavaScript基础知识练习",
+    "type": "topic",
+    "order": 4,
+    "desc":[""],
+    "desc_file":false,
+    "question": {
+        "content": "请选择结果为真的表达式:",
+        "options": [
+            "null instanceof Object",
+            "null === undefined",
+            "null == undefined",
+            "NaN == NaN"
+        ]
+    },
+    "answer": {
+        "value": "null == undefined",
+        "explain_file":false
+    }
+}

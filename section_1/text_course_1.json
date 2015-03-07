@@ -1,0 +1,20 @@
+{
+    "title": "JavaScript基础知识练习",
+    "type": "topic",
+    "order": 0,
+    "desc":[""],
+    "desc_file":false,
+    "question": {
+        "content": "JavaScript语言中有几种数据类型?",
+        "options": [
+            "7",
+            "8",
+            "6",
+            "5"
+        ]
+    },
+    "answer": {
+        "value": "6",
+        "explain_file":false
+    }
+}
